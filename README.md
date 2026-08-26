@@ -1,6 +1,5 @@
 # SortViz
 
-## Description
 This program provides a visual demonstration of the process undrgone by different sorting algorithms
 
 ## Supported Algorithms
